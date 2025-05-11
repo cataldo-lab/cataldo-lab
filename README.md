@@ -1,4 +1,24 @@
-## Hi there 👋
+# Soy Benjamín Cataldo López
+
+Estudiante de ultimo año de Ingeneria Civil en infomatica de la Universidad del bio-bio sede concepción.
+Actualmente licenciado en ciencias de la ingeneria desde 2025.
+
+## 🚀 Habilidades Técnicas
+
+### 🖥️ Lenguajes de Programación o Stacks:
+-Stack PERN.
+-Python.
+-SQL.
+
+### Explorando lenguajes de:
+-Kotlin, Spring Boot, Typescript.
+
+
+
+
+### 🌱 ¿En qué estoy trabajando actualmente?
+-Mejorando mis habilidades en **Spring Boot** y **Typescript**.
+-Trabajando en mi tesis en una empresa de muebles tradicionales de Concepción.
 
 <!--
 **cataldo-lab/cataldo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
