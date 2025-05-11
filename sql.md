@@ -2,13 +2,15 @@
 
 ```bash
 # Conectar a PostgreSQL como usuario por defecto
-psql -U postgres
+$ psql -U postgres
 
 # Conectar a PostgreSQL especificando una base de datos
 $ psql -U postgres -d nombre_base_datos
 ```
+
 ## Entrar a postgress:
-```
+
+```**bash**
 #Entrar a postgress
 psql
 
