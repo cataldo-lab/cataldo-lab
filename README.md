@@ -9,7 +9,7 @@ Actualmente licenciado en ciencias de la ingeneria desde 2025.
 ### 🖥️ Lenguajes de Programación o Stacks:
 - Stack PERN.
 - Python.
-- SQL 
+- [SQL](https://github.com/cataldo-lab/cataldo-lab/blob/main/sql.md) 
 
 ### Explorando lenguajes de:
 - Kotlin, Spring Boot, Typescript.
