@@ -17,8 +17,9 @@ bash: $ psql
 #Entrar si ya tienes permisos:
 bash: $ psql -U postgres
 ```
+Esto permitira que el terminal este en: **psql**
 
-## Comandos postes en terminal psql 
+## Comandos postgres en terminal psql 
 
 ```sql
 # Listar base de datos
@@ -30,6 +31,20 @@ psql: $ \c nombre_base_datos
 #Listas de tablas de base de datos seleccionada
 psql: $ \dt
 
+#Listar secuencias (seriales)
+psql: $ \ds
+
+#Listar vistas
+psql: $ \dv
+
+#Listar roles de usuario:
+psql: $ \du
+
+#Listar usuarios y privilegios:
+psql: $ \dg
+
+#Ver permisos de tablas:
+psql: $ \dp
+
 ```
-## ✅ 2. Ejecución de Comandos SQL Directamente
 
