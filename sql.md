@@ -1,4 +1,4 @@
-## ✅ 1. Conexión a PostgreSQL desde Bash
+## Conexión a PostgreSQL desde Bash
 
 ```bash
 # Conectar a PostgreSQL como usuario por defecto
@@ -8,7 +8,7 @@ $ psql -U postgres
 $ psql -U postgres -d nombre_base_datos
 ```
 
-## Entrar a postgress:
+## Entrar a postgress ya instalado desde BASH:
 
 ```**bash**
 #Entrar a postgress
@@ -18,7 +18,7 @@ psql
 psql -U postgres
 ```
 
-
+## Comandos postes en terminal psql 
 
 ```sql
 # Listar base de datos
