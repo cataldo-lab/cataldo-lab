@@ -1,6 +1,7 @@
 # Soy Benjamín Cataldo López
 
 Estudiante de ultimo año de Ingeneria Civil en infomatica de la Universidad del bio-bio sede concepción.
+
 Actualmente licenciado en ciencias de la ingeneria desde 2025.
 
 ## 🚀 Habilidades Técnicas
