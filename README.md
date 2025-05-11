@@ -19,7 +19,7 @@ Actualmente licenciado en ciencias de la ingeneria desde 2025.
 
 ### 🌱 ¿En qué estoy trabajando actualmente?
 - Mejorando mis habilidades en **Spring Boot** y **Typescript**.
-- Trabajando en mi tesis en una empresa de muebles tradicionales de Concepción.
+- Trabajando en mi tesis en una empresa de muebles tradicionales del gran Concepción.
 
 <!--
 **cataldo-lab/cataldo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
