@@ -9,3 +9,6 @@ psql -U postgres -d nombre_base_datos
 
 # Conectar a PostgreSQL en un servidor remoto
 psql -h 192.168.1.100 -p 5432 -U postgres -d nombre_base_datos
+```
+## ✅ 2. Ejecución de Comandos SQL Directamente
+
