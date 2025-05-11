@@ -11,7 +11,7 @@ Actualmente licenciado en ciencias de la ingeneria desde 2025.
 - SQL.
 
 ### Explorando lenguajes de:
--Kotlin, Spring Boot, Typescript.
+- Kotlin, Spring Boot, Typescript.
 
 
 
