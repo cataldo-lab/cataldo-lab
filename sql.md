@@ -2,33 +2,33 @@
 
 ```bash
 # Conectar a PostgreSQL como usuario por defecto
-$ psql -U postgres
+bash: $ psql -U postgres
 
 # Conectar a PostgreSQL especificando una base de datos
-$ psql -U postgres -d nombre_base_datos
+bash: $ psql -U postgres -d nombre_base_datos
 ```
 
 ## Entrar a postgress ya instalado desde BASH:
 
 ```**bash**
 #Entrar a postgress
-psql
+bash: $ psql
 
 #Entrar si ya tienes permisos:
-psql -U postgres
+bash: $ psql -U postgres
 ```
 
 ## Comandos postes en terminal psql 
 
 ```sql
 # Listar base de datos
-$ \l
+psql: $ \l
 
 # Seleccionar una base de datos
-$ \c nombre_base_datos
+psql: $ \c nombre_base_datos
 
 #Listas de tablas de base de datos seleccionada
-$ \dt
+psql: $ \dt
 
 ```
 ## ✅ 2. Ejecución de Comandos SQL Directamente
